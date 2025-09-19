@@ -30,7 +30,7 @@ except:
 
 
 # SQLite logging
-conn = sqlite3.connect("conversations.db")
+conn = sqlite3.connect("conversations_week3.db")
 c = conn.cursor()
 c.execute("""
 CREATE TABLE IF NOT EXISTS logs (
