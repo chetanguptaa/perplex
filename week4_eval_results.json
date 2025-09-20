@@ -1,0 +1,146 @@
+{
+  "string_accuracy": 0.0,
+  "semantic_accuracy": 0.2,
+  "results": [
+    {
+      "question": "What is LangChain?",
+      "ground_truth": "LangChain is a Python framework for building applications powered by large language models.",
+      "answer": "LangChain is an open-source framework for building applications using large language models (LLMs).  It simplifies development by providing a standard interface for LLMs and integrating with various data sources and tools.",
+      "string_score": 0,
+      "semantic_score": 1
+    },
+    {
+      "question": "What does RAG mean in AI?",
+      "ground_truth": "RAG stands for Retrieval-Augmented Generation, a technique where external documents are retrieved to improve LLM answers.",
+      "answer": "The provided text does not contain the definition of RAG in AI.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "Who is the CEO of Google?",
+      "ground_truth": "Sundar Pichai",
+      "answer": "The provided text does not contain the name of Google's CEO.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is Hugging Face?",
+      "ground_truth": "Hugging Face is a company and open-source platform for machine learning models, datasets, and tools.",
+      "answer": "Hugging Face is a company and open-source community that builds AI tools, models, and platforms, focusing on data science, machine learning, and natural language processing.  It's known for its NLP transformers library and a platform for sharing models and datasets.",
+      "string_score": 0,
+      "semantic_score": 1
+    },
+    {
+      "question": "What is a vector database?",
+      "ground_truth": "A vector database is a specialized database for storing and searching high-dimensional embeddings efficiently.",
+      "answer": "A vector database stores data as vectors, enabling similarity searches.",
+      "string_score": 0,
+      "semantic_score": 1
+    },
+    {
+      "question": "What is LangGraph?",
+      "ground_truth": "LangGraph is a Python framework for building stateful, multi-agent workflows powered by language models.",
+      "answer": "LangGraph is a topic covered in LangChain Academy courses;  more information can be found in their introductory LangGraph course.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is reinforcement learning?",
+      "ground_truth": "Reinforcement learning is a machine learning paradigm where agents learn by interacting with an environment and receiving rewards or penalties.",
+      "answer": "The provided text does not explain reinforcement learning.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "Who founded OpenAI?",
+      "ground_truth": "OpenAI was founded by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba.",
+      "answer": "The provided text does not name the founders of OpenAI.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is a knowledge graph?",
+      "ground_truth": "A knowledge graph is a structured representation of entities and their relationships, often used to connect information in a graph format.",
+      "answer": "The provided text does not define a knowledge graph.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is Gemini AI?",
+      "ground_truth": "Gemini is Google's family of multimodal AI models, developed by Google DeepMind.",
+      "answer": "Gemini is Google's family of multimodal AI models that processes various data types (audio, images, code, text, video).  It powers Google's generative AI chatbot and is integrated into many Google products.",
+      "string_score": 0,
+      "semantic_score": 1
+    },
+    {
+      "question": "What is ChatGPT?",
+      "ground_truth": "ChatGPT is an AI chatbot developed by OpenAI based on the GPT family of large language models.",
+      "answer": "The provided text does not define ChatGPT.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is the capital of France?",
+      "ground_truth": "Paris",
+      "answer": "The provided text does not contain the answer to what the capital of France is.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "ground_truth": "100 degrees Celsius",
+      "answer": "The provided text does not contain the boiling point of water.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "Who wrote the play Hamlet?",
+      "ground_truth": "William Shakespeare",
+      "answer": "The provided text does not state who wrote Hamlet.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is the speed of light?",
+      "ground_truth": "Approximately 299,792 kilometers per second",
+      "answer": "The provided text does not contain the speed of light.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is Python used for?",
+      "ground_truth": "Python is a general-purpose programming language widely used for web development, data science, automation, and AI.",
+      "answer": "Building applications powered by large language models (LLMs), such as chatbots and AI agents.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is SQL used for?",
+      "ground_truth": "SQL is a language used to query and manage data in relational databases.",
+      "answer": "The provided text does not mention SQL.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What does CPU stand for?",
+      "ground_truth": "Central Processing Unit",
+      "answer": "The provided text does not contain the answer to what CPU stands for.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What does GPU stand for?",
+      "ground_truth": "Graphics Processing Unit",
+      "answer": "The provided text does not contain the answer to what GPU stands for.",
+      "string_score": 0,
+      "semantic_score": 0
+    },
+    {
+      "question": "What is the largest planet in the solar system?",
+      "ground_truth": "Jupiter",
+      "answer": "The provided text does not contain the answer to what the largest planet in the solar system is.",
+      "string_score": 0,
+      "semantic_score": 0
+    }
+  ]
+}

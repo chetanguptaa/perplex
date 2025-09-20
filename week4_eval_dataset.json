@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is LangChain?",
+    "ground_truth": "LangChain is a Python framework for building applications powered by large language models."
+  },
+  {
+    "question": "What does RAG mean in AI?",
+    "ground_truth": "RAG stands for Retrieval-Augmented Generation, a technique where external documents are retrieved to improve LLM answers."
+  },
+  {
+    "question": "Who is the CEO of Google?",
+    "ground_truth": "Sundar Pichai"
+  },
+  {
+    "question": "What is Hugging Face?",
+    "ground_truth": "Hugging Face is a company and open-source platform for machine learning models, datasets, and tools."
+  },
+  {
+    "question": "What is a vector database?",
+    "ground_truth": "A vector database is a specialized database for storing and searching high-dimensional embeddings efficiently."
+  },
+  {
+    "question": "What is LangGraph?",
+    "ground_truth": "LangGraph is a Python framework for building stateful, multi-agent workflows powered by language models."
+  },
+  {
+    "question": "What is reinforcement learning?",
+    "ground_truth": "Reinforcement learning is a machine learning paradigm where agents learn by interacting with an environment and receiving rewards or penalties."
+  },
+  {
+    "question": "Who founded OpenAI?",
+    "ground_truth": "OpenAI was founded by Elon Musk, Sam Altman, Greg Brockman, Ilya Sutskever, John Schulman, and Wojciech Zaremba."
+  },
+  {
+    "question": "What is a knowledge graph?",
+    "ground_truth": "A knowledge graph is a structured representation of entities and their relationships, often used to connect information in a graph format."
+  },
+  {
+    "question": "What is Gemini AI?",
+    "ground_truth": "Gemini is Google's family of multimodal AI models, developed by Google DeepMind."
+  },
+  {
+    "question": "What is ChatGPT?",
+    "ground_truth": "ChatGPT is an AI chatbot developed by OpenAI based on the GPT family of large language models."
+  },
+  {
+    "question": "What is the capital of France?",
+    "ground_truth": "Paris"
+  },
+  {
+    "question": "What is the boiling point of water at sea level?",
+    "ground_truth": "100 degrees Celsius"
+  },
+  {
+    "question": "Who wrote the play Hamlet?",
+    "ground_truth": "William Shakespeare"
+  },
+  {
+    "question": "What is the speed of light?",
+    "ground_truth": "Approximately 299,792 kilometers per second"
+  },
+  {
+    "question": "What is Python used for?",
+    "ground_truth": "Python is a general-purpose programming language widely used for web development, data science, automation, and AI."
+  },
+  {
+    "question": "What is SQL used for?",
+    "ground_truth": "SQL is a language used to query and manage data in relational databases."
+  },
+  {
+    "question": "What does CPU stand for?",
+    "ground_truth": "Central Processing Unit"
+  },
+  {
+    "question": "What does GPU stand for?",
+    "ground_truth": "Graphics Processing Unit"
+  },
+  {
+    "question": "What is the largest planet in the solar system?",
+    "ground_truth": "Jupiter"
+  }
+]
